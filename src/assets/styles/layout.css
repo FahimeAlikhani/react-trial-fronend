@@ -1,0 +1,50 @@
+.app{
+    display: flex;
+    flex-direction: row;
+    direction: rtl;
+    background: #FFFFFF;
+    padding: 32px;
+}
+.page{ 
+    display: flex;
+    width: 80%;
+    height: 1016px;
+    background: #F8F9FB;
+    border-radius: 30px 30px 0px 0px;
+}
+
+.menuBoard{
+    display: flex;
+    flex-direction: column; 
+    height: auto;
+    background: #FFFFFF;
+    margin-left: 32px;
+}
+.loge{
+    background: linear-gradient(209.22deg, #FD3D39 8.18%, rgba(253, 61, 57, 0.7) 92.37%);
+    border-radius: 30px;
+}
+.menudiv{
+    margin-top: 32px;
+    margin-bottom: 158px;
+}
+.menuItem{
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+    align-items: center;   
+    padding: 35px 48px 35px 110px;   
+    border: 1px solid black;
+}
+.img{
+    padding-left: 24px;
+}
+.text{
+    font-family: 'Vazir FD';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 35px;
+    color: B2B2B2;
+}
+

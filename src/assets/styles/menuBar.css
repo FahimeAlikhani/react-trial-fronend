@@ -1,0 +1,30 @@
+.main{
+    display: flex;
+    flex-direction: row;
+    float: left;
+    height: 136px;
+    padding: 39px 56px;
+    background: #F8F9FB;
+    border-radius: 30px 30px 0px 0px;
+    border: 1px solid black;
+}
+.text{
+    display: flex;
+    font-family: 'Vazir FD';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 58px;
+    text-align: right;
+    color: #797877;
+}
+.time{
+    display: flex;
+    font-family: 'Vazir FD';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 29px;
+    text-align: right;
+    color: #B2B2B2;
+}
