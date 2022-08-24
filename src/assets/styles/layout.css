@@ -7,6 +7,7 @@
 }
 .page{ 
     display: flex;
+    flex-direction: column;
     width: 80%;
     height: 1016px;
     background: #F8F9FB;
