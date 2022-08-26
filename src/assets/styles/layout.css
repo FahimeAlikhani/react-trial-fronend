@@ -22,7 +22,7 @@
     margin-left: 32px;
 }
 .loge{
-    background: linear-gradient(209.22deg, #FD3D39 8.18%, rgba(253, 61, 57, 0.7) 92.37%);
+    background: linear-ient(209.22deg, #FD3D39 8.18%, rgba(253, 61, 57, 0.7) 92.37%);
     border-radius: 30px;
 }
 .menudiv{
@@ -48,4 +48,61 @@
     line-height: 35px;
     color: B2B2B2;
 }
+.textImg1{
+    position: absolute;
+    width: 144px;
+    height: 103px;
+    left: 1685px;
+    top: 71px;
+    
+    font-family: 'Vazir FD';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 103px;
+    text-align: center;
+    
+    color: #FFFFFF;
+  }
+.textImg2{
+    position: absolute;
+    width: 179px;
+    height: 58px;
+    left: 1645px;
+    top: 200px;
 
+    font-family: 'Kalameh';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 58px;
+
+    color: #FFFFFF;
+}
+.textImg3{
+    position: absolute;
+width: 213px;
+height: 25px;
+left: 1635px;
+top: 265px;
+
+font-family: 'Kalameh';
+font-style: normal;
+font-weight: 700;
+font-size: 19px;
+line-height: 25px;
+
+/* identical to box height */
+text-align: right;
+
+color: #FFFFFF;
+
+}
+.text1{
+    font-family: 'Vazir FD';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 35px;
+    color: #2C2C30;
+}

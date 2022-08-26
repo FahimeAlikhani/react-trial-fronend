@@ -1,9 +1,13 @@
 import React from "react"
 
+
 const Screen2 =()=>{
 
     return(
-        <div>صفحه 2</div>
+        <div>
+            <div>صفحه 2</div>
+        </div>
+        
     ) 
 }
 

@@ -23,4 +23,9 @@
     line-height: 29px;
     text-align: right;
     color: #B2B2B2;
-}
+    position: absolute;
+    width: 354px;   
+    height: 29px;
+    left: 278px;
+    top: 86px;
+    }

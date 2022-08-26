@@ -1,0 +1,19 @@
+.title1{
+    position: absolute;
+left: 90.45%;
+top: 10.14%;
+
+font-family: 'Vazir FD';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 29px;
+
+/* identical to box height */
+text-align: right;
+
+/* Gray I */
+color: #797877;
+
+
+}
