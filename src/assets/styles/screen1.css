@@ -1,0 +1,168 @@
+#option1{
+    margin: 56px;
+    margin-top: 56px;
+    position: absolute;
+width: 488px;
+height: 160px;
+/* left: 950px;
+top: 224px; */
+
+/* White */
+background: #FFFFFF;
+box-shadow: 0px 4px 24px rgba(34, 34, 34, 0.16);
+border-radius: 15px;
+}
+#option2{
+    margin: 56px;
+    margin-top: 270px;
+    position: absolute;
+width: 623px;
+height: 160px;
+/* left: 815px;
+top: 424px; */
+
+/* White */
+background: #FFFFFF;
+box-shadow: 0px 4px 24px rgba(34, 34, 34, 0.16);
+border-radius: 15px;
+}
+#option3{
+    position: absolute;
+width: 704px;
+height: 160px;
+margin: 56px;
+margin-top:490px ;
+/* White */
+background: #FFFFFF;
+box-shadow: 0px 4px 24px rgba(34, 34, 34, 0.16);
+border-radius: 15px;
+}
+#title1{
+    position: absolute;
+    margin-top: 61px;
+    margin-right: 136px;
+width: 181px;
+height: 39px;
+/* left: 1121px;
+top: 285px; */
+font-family: 'Vazir FD';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 39px;
+/* identical to box height */
+text-align: right;
+/* Black II */
+color: #2C2C30;
+}
+#title2{
+    margin: 136px;
+    margin-top: 60;
+    font-family: 'Vazir FD';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 39px;
+
+/* identical to box height */
+text-align: right;
+
+/* Black II */
+color: #2C2C30;
+}
+#title3{
+    position: absolute;
+    width: 110px;
+    height: 39px;
+    left: 460px;
+    top: 55px;
+        
+    font-family: 'Vazir FD';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 39px;
+
+/* identical to box height */
+text-align: right;
+
+/* Black II */
+color: #2C2C30;
+
+
+}
+#num1{
+    position: absolute;
+    margin:auto;
+width: 59px;
+height: 155px;
+ left: 70px;
+/* top: 227px;  */
+
+font-family: 'Vazir FD';
+font-style: normal;
+font-weight: 500;
+font-size: 96px;
+line-height: 155px;
+/* identical to box height */
+text-align: right;
+/* Blue */
+color: #019CD5;
+}
+#num2{
+    margin-right: 400px;
+    margin-top: -240px;
+    position: absolute;
+width: 170px;
+height: 155px;
+/* left: 871px;
+top: 427px; */
+
+font-family: 'Vazir FD';
+font-style: normal;
+font-weight: 500;
+font-size: 96px;
+line-height: 155px;
+
+/* identical to box height */
+text-align: center;
+
+/* Red */
+color: #FD3D39;
+}
+#imail{
+    position: absolute;
+left: 20%;
+top: 35%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+
+/* identical to box height */
+text-align: center;
+
+/* Black I */
+color: #222222;
+
+
+}
+.image{
+    margin: 54px;
+    position: absolute;
+    /* left: 8.33%;
+    right: 8.33%;
+    top: 32%;
+    bottom: 12.5%; */
+}
+#image2{
+    position: absolute;
+left:84%;
+top: 32%;
+}
+#image3{
+    margin:48px;
+    margin-top: 50px;
+}

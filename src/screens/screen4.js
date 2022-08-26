@@ -1,9 +1,12 @@
 import React from "react"
+import "../assets/styles/screen4.css"
 
 const Screen4 =()=>{
 
     return(
-        <div>صفحه 4</div>
+        <div className="base">
+            <div className="title1">عنوان</div>
+        </div>
     ) 
 }
 
