@@ -19,7 +19,7 @@ return(
         <div className="menudiv">
             <div className="menuItem">
                 <img className="img" src={Home}/>
-                <div className="text1" >منوی پنل شماره 1</div>
+                <div className="text" >  منوی پنل شماره1 </div>
             </div>
             <div className="menuItem">
                 <img className="img" src={Message}/>

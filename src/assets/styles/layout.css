@@ -48,6 +48,9 @@
     line-height: 35px;
     color: B2B2B2;
 }
+.text:hover{
+    color:  #2C2C30;
+}
 .textImg1{
     position: absolute;
     width: 144px;
