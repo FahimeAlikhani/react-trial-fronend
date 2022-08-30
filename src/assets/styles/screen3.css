@@ -1,0 +1,54 @@
+.base{
+    margin: 40px 25px;
+}
+.title{
+    margin:42px 120px;
+    display: flexbox;
+
+    font-family: 'Vazir FD';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 29px;
+/* identical to box height */
+text-align: right;
+/* Gray I */
+color: #797877;
+}
+.textBar{
+    box-sizing: border-box;
+    height: 50px;
+    background: #F4F5F7;
+
+    border: 1px solid #B2B2B2;
+    border-radius: 15px;
+}
+#txt1{
+margin: -200px 300px;   
+}
+#txt2{
+    margin: -85px 300px;
+    width: 65%;
+}
+.imgCss{
+    position: absolute;
+    margin: -5px 40px;
+
+/* Gray III */
+
+}
+#dots1{
+    top: 250px;
+    right: 473px;
+}
+#dots2{
+    top: 525px;
+    right: 473px;
+}
+#dots3{
+    top: 800px;
+    right: 473px;
+}
+hr{
+    color: #E5E5E5;
+}
