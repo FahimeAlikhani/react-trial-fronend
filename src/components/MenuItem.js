@@ -10,8 +10,8 @@ const MenuItem=()=>{
     
 return(
     <div className="menuBoard">
-        <div className="logo">
-            <img src={Logo} />
+        <div >
+            <img className="logo" src={Logo} />
             <div className="textImg1">Logo</div>
             <div className="textImg2">نام سازمان</div>
             <div className="textImg3">توضیحات مختصر در چند کلمه </div>

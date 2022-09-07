@@ -1,4 +1,4 @@
-#option1{
+.option1{
     margin: 56px;
     margin-top: 56px;
     position: absolute;
@@ -12,7 +12,7 @@ background: #FFFFFF;
 box-shadow: 0px 4px 24px rgba(34, 34, 34, 0.16);
 border-radius: 15px;
 }
-#option2{
+.option2{
     margin: 56px;
     margin-top: 270px;
     position: absolute;
@@ -26,7 +26,7 @@ background: #FFFFFF;
 box-shadow: 0px 4px 24px rgba(34, 34, 34, 0.16);
 border-radius: 15px;
 }
-#option3{
+.option3{
     position: absolute;
 width: 704px;
 height: 160px;
@@ -37,7 +37,7 @@ background: #FFFFFF;
 box-shadow: 0px 4px 24px rgba(34, 34, 34, 0.16);
 border-radius: 15px;
 }
-#title1{
+.title1{
     position: absolute;
     margin-top: 61px;
     margin-right: 136px;
@@ -55,7 +55,7 @@ text-align: right;
 /* Black II */
 color: #2C2C30;
 }
-#title2{
+.title2{
     margin: 136px;
     margin-top: 60;
     font-family: 'Vazir FD';
@@ -70,7 +70,7 @@ text-align: right;
 /* Black II */
 color: #2C2C30;
 }
-#title3{
+.title3{
     position: absolute;
     width: 110px;
     height: 39px;
@@ -91,7 +91,7 @@ color: #2C2C30;
 
 
 }
-#num1{
+.num1{
     position: absolute;
     margin:auto;
 width: 59px;
@@ -109,7 +109,7 @@ text-align: right;
 /* Blue */
 color: #019CD5;
 }
-#num2{
+.num2{
     margin-right: 400px;
     margin-top: -240px;
     position: absolute;
@@ -130,7 +130,7 @@ text-align: center;
 /* Red */
 color: #FD3D39;
 }
-#imail{
+.imail{
     position: absolute;
 left: 20%;
 top: 35%;
@@ -157,12 +157,12 @@ color: #222222;
     top: 32%;
     bottom: 12.5%; */
 }
-#image2{
+.image2{
     position: absolute;
 left:84%;
 top: 32%;
 }
-#image3{
+.image3{
     margin:48px;
     margin-top: 50px;
 }

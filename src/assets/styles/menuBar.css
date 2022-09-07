@@ -1,10 +1,12 @@
 .content{
-    display: flex;
-    flex-direction: row;
-    padding: 39px 56px;
+    display:flex;
+    flex-direction:row;
+    padding: 39px 56px ;
     background: #F8F9FB;
     border-radius: 30px 30px 0px 0px;
-    border: 1px solid black;
+    border: 1px solid #E5E5E5;
+    height: 95px;
+    
 }
 .menutext{
     font-family: 'Vazir FD';
@@ -14,6 +16,19 @@
     line-height: 58px;
     text-align: right;
     color: #797877;
+}
+.menusub{
+    position: absolute;
+    font-family: 'Vazir FD';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 23px;
+
+text-align: right;
+
+color: #797877;
+margin-top: 60px;
 }
 .time{
     font-family: 'Vazir FD';
@@ -26,6 +41,7 @@
     position: absolute;
     width: 354px;   
     height: 29px;
-    left: 278px;
-    top: 86px;
+    padding: 10px 1052px;
+    /* left: 278px;
+    top: 86px; */
     }

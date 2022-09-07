@@ -1,0 +1,114 @@
+.base4{
+    margin: 28px ;
+    display: flex;
+    flex-direction: row;
+    
+}
+.base4_2{
+    margin: -40px 28px ;
+    display: flex;
+    flex-direction: row;
+    
+}
+.numberBox4{
+    background-color: #E5E5E5 ;
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    text-align: center;
+    padding: 3px;
+    position: absolute;
+    margin: 35px 10px;
+
+    font-family: 'Vazir FD';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height:20px;
+
+
+    color: #797877;
+}
+.title{
+    margin:42px 120px;
+    display: flexbox;
+
+    font-family: 'Vazir FD';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 29px;
+/* identical to box height */
+text-align: right;
+/* Gray I */
+color: #797877;
+margin: 42px 95px;
+}
+.textBar1{
+    box-sizing: border-box;
+    height: 50px;
+    background: #F4F5F7;
+
+    border: 1px solid #B2B2B2;
+    border-radius: 15px;
+    margin: 28px 70px;
+}
+.textBar2{
+    box-sizing: border-box;
+    height: 50px;
+    background: #F4F5F7;
+
+    border: 1px solid #B2B2B2;
+    border-radius: 15px;
+    margin: 28px 55px;
+    width: 65%;
+}
+.textBar3{
+    box-sizing: border-box;
+    height: 50px;
+    background: #F4F5F7;
+
+    border: 1px solid #B2B2B2;
+    border-radius: 15px;
+    margin: 28px 55px;
+    width: 33%;
+}
+
+.btn{
+    position: absolute;
+    right: 65%;
+    top: 57%;
+    width: 200px;
+    height: 56px;
+    background: #F4F5F7;
+    border: 1px solid #B2B2B2;
+    border-radius: 15px;
+
+    font-family: 'Vazir FD';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+text-align: center;
+}
+#btn2{
+    right: 76%;
+    top: 57%;
+    background: #019CD5;
+    color: #FFFFFF;
+}
+.footer{
+    width: 233px;
+height: 29px;
+font-family: 'Vazir FD';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 29px;
+text-align: right;
+color: #16A8FC;
+margin-right: 72px;
+}
+hr{
+    margin-top: 115px;
+}
