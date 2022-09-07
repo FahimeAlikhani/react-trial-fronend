@@ -1,17 +1,14 @@
 .app{
     direction: rtl;
     background: #ffffff;
+    display: flex;
     padding: 32px;
 }
-.page{ 
-    display:flex;
-    flex-direction:row;
-    padding-left: 380px;
-    width: 80%;
+.contentPage{
+    display: flex;
+    flex-direction: row;
     height: 1016px;
-    /* background:#F8F9FB; */
-    background:#3f5279;
-    border-radius: 30px;
+    width: 100%;
 }
 
 .menuBoard{

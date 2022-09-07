@@ -6,7 +6,7 @@ import SideMenu from "../../components/SideMenu";
 const Panel=()=>{
 
     return(
-        <div className="page">
+        <div className="contentPage">
              <SideMenu />
              <MenuBar/>
         </div>
