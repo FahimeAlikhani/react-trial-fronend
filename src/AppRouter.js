@@ -1,8 +1,7 @@
-import React,{lazy} from "react";
+import React from "react";
 import {Route,Routes,BrowserRouter,Navigate} from "react-router-dom";
 import Panel from "./screens/panel/Panel";
 import ProtectRoutes from "./ProtectRoutes";
-
 
 const AppRouter=()=>{
 
@@ -17,9 +16,10 @@ const AppRouter=()=>{
                     key={item.key}
                     path={item.path}
                     element={<Component />}
-                    exact={item.exact} />
+                    exact={item.exact} 
+                    />
                 )})}
-                <Route path="/" element={<Navigate to="/panel"/>} />
+                <Route path="/" element={<Navigate to="/Screen1"/>} />
             </Routes>
             </Panel>
         </BrowserRouter>

@@ -4,11 +4,15 @@ import React,{lazy} from "react";
 // const Screen3=lazy(()=>import ("./screens/screen3"))
 // const Screen4=lazy(()=>import ("./screens/screen4"))
 // const Screen5=lazy(()=>import ("./screens/screen5"))
+// import Panel from "./screens/panel/Panel";
+import Panel from "./screens/panel/Panel";
 import Screen1 from "./screens/screen1"
 import Screen2 from "./screens/screen2"
 import Screen3 from "./screens/screen3"
 import Screen4 from "./screens/screen4"
 import Screen5 from "./screens/screen5"
+
+
 const ProtectRoutes=[
     {
         key:1,
@@ -40,6 +44,6 @@ const ProtectRoutes=[
         component:Screen5,
         exact:true,
     }
-    
+   
 ]
 export default ProtectRoutes;

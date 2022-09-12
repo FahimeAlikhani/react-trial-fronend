@@ -10,7 +10,9 @@
     height: 1016px;
     width: 100%;
 }
+.panel{
 
+}
 .menuBoard{
     display: flex;
     flex-direction: column; 
@@ -18,25 +20,34 @@
     background: #FFFFFF;
     margin-left: 32px;
 }
-.loge{
-    background: linear-ient(209.22deg, #FD3D39 8.18%, rgba(253, 61, 57, 0.7) 92.37%);
+.logo{
+    position: absolute;
+    width: 362px;
+    height: 301px;
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(209.22deg, #FD3D39 8.18%, rgba(253, 61, 57, 0.7) 92.37%);
     border-radius: 30px;
+
 }
 .menudiv{
-    margin-top: 32px;
-    margin-bottom: 158px;
+    margin-top: 320px;
+    margin-left: 17px;
 }
 .menuItem{
     display: flex;
     flex-direction: row;
-    justify-items: center;
     align-items: center;   
     padding: 35px 48px 35px 110px;   
     border: 1px solid black;
     opacity: 50%;
+    
 }
 .menuItem:hover{
     opacity:100%;
+}
+.menuItem:active{
+    color:pink;
 }
 
 .img{
@@ -51,31 +62,22 @@
     line-height: 35px;
     color: black;
 }
-/* .text:hover{
-    color:  #2C2C30;
-} */
+
 .textImg1{
-    position: absolute;
-    width: 144px;
-    height: 103px;
-    left: 1685px;
-    top: 71px;
-    
+
+    margin: 50px 102px;
     font-family: 'Vazir FD';
     font-style: normal;
     font-weight: 500;
-    font-size: 64px;
+    font-size: 75px;
     line-height: 103px;
     text-align: center;
     
-    color: #FFFFFF;
+    color: #ffffff;
   }
 .textImg2{
     position: absolute;
-    width: 179px;
-    height: 58px;
-    left: 1645px;
-    top: 200px;
+    margin: 160px 109px;
 
     font-family: 'Kalameh';
     font-style: normal;
@@ -87,21 +89,17 @@
 }
 .textImg3{
     position: absolute;
-width: 213px;
-height: 25px;
-left: 1635px;
-top: 265px;
+    font-family: 'Kalameh';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 25px;
+    margin: 220px 80px;
+    /* identical to box height */
+    text-align: center;
 
-font-family: 'Kalameh';
-font-style: normal;
-font-weight: 700;
-font-size: 19px;
-line-height: 25px;
+    color: #FFFFFF;
 
-/* identical to box height */
-text-align: right;
-
-color: #FFFFFF;
 
 }
 .text1{

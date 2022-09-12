@@ -1,9 +1,9 @@
 .page{ 
     display:flex;
+    position: relative;
     width: 80%;
     height: 1016px;
-    /* background:#F8F9FB; */
-    background:#3f5279;
+    background:#F8F9FB;
     border-radius: 30px;
 }
 .content{

@@ -1,14 +1,21 @@
 import React from "react";
 import '../../assets/styles/layout.css';
 import MenuBar  from "../../components/menuBar";
-import SideMenu from "../../components/SideMenu";
+import SideMenu from "../../components/SideMenu/SideMenu";
 
-const Panel=()=>{
+const Panel=(props)=>{
 
     return(
         <div className="contentPage">
              <SideMenu />
-             <MenuBar/>
+             <main>
+              <div>
+                <MenuBar/>
+                </div>  
+              <div className="panel">
+                {props.children}
+              </div>
+             </main>
         </div>
     )
 }

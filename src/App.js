@@ -3,7 +3,7 @@ import React from "react"
 // import Layout from "./screens/panel/layout"
 import '../src/assets/styles/layout.css'
 import AppRouter from "./AppRouter"
-import SideMenu from "./components/SideMenu"
+import SideMenu from "./components/SideMenu/SideMenu"
 const App=()=>{
 
     return(
