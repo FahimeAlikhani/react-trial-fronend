@@ -1,11 +1,14 @@
+.screen{
+  position: absolute;
+}
 .option1{
     margin: 56px;
     margin-top: 56px;
     position: absolute;
-width: 488px;
-height: 160px;
-/* left: 950px;
-top: 224px; */
+    width: 488px;
+    height: 160px;
+   /* left: 950px;
+    top: 224px; */
 
 /* White */
 background: #FFFFFF;

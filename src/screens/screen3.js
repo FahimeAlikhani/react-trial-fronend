@@ -7,7 +7,7 @@ const Screen3 =()=>{
 
     return(
 
-        <div>
+        <div >
             <div className="base">
                 <div className="numberBox">1</div>
                 <img  className="imgCss" src={img1_dots}/>

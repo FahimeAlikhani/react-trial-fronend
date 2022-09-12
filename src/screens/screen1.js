@@ -6,7 +6,7 @@ import Msg2 from "../assets/images/Message2.svg"
 const Screen1 =()=>{
 
     return(
-        <div >          
+        <div className="screen">          
             <div className="option1">
                  <div className="title1">  تعداد در خواست ها : </div>
                  <div className="num1">5</div>

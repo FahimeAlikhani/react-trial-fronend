@@ -8,11 +8,9 @@ const Panel=(props)=>{
     return(
         <div className="contentPage">
              <SideMenu />
-             <main>
-              <div>
-                <MenuBar/>
-                </div>  
-              <div className="panel">
+             <main className="panel">
+              <MenuBar/>
+              <div className="panelPage">
                 {props.children}
               </div>
              </main>
